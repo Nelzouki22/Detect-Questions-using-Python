@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Detect Questions using Python", "Detect Questions using Python.pyproj", "{13D4D54E-46FE-40D9-BF5A-FED6D859C465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D4D54E-46FE-40D9-BF5A-FED6D859C465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D4D54E-46FE-40D9-BF5A-FED6D859C465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8564302-C5C8-4E36-B338-9CC13A8ACB26}
+	EndGlobalSection
+EndGlobal
